@@ -1,0 +1,75 @@
+p {
+    text-align: center;
+    font-size: 100%;
+    border-radius: 60px;
+    border: 2mm ridge rgba(170, 100, 245, .3);
+
+}
+.center-image {
+    text-align: left;
+}
+h1 {
+    text-align: center;
+
+    color: black;
+    text-shadow: white 3px 3px;
+    font-family: "Bold";
+    font-size: 300%;
+    font-size: 400%;
+    background-color: lightpink;
+}
+
+img {
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+ul {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+}
+
+
+h2 {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+    text-decoration: underline;
+}
+h3 {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+    text-decoration: underline;
+}
+
+h5 {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+    text-decoration: underline;
+}
+
+h6 {
+    text-align: center;
+    font-family: "Bold";
+    font-size: 100%;
+    text-decoration: underline;
+}
+
+div {
+    font-size: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+
